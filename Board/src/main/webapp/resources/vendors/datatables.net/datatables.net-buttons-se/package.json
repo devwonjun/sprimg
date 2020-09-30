@@ -1,0 +1,62 @@
+{
+  "_from": "datatables.net-buttons-se@^1.6.2",
+  "_id": "datatables.net-buttons-se@1.6.2",
+  "_inBundle": false,
+  "_integrity": "sha512-ebSO+Mg/ZOhGT+CWh4FIdp88K/k7Q1fK3W4IoRW99O/z0feUEJXd+fuU2m2s2Y+wApkf8UKvXfAse8xQ4MKcfA==",
+  "_location": "/datatables.net-buttons-se",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "datatables.net-buttons-se@^1.6.2",
+    "name": "datatables.net-buttons-se",
+    "escapedName": "datatables.net-buttons-se",
+    "rawSpec": "^1.6.2",
+    "saveSpec": null,
+    "fetchSpec": "^1.6.2"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/datatables.net-buttons-se/-/datatables.net-buttons-se-1.6.2.tgz",
+  "_shasum": "60ad8bccc31e0c44f70e64aa641d5bfc7cceebc1",
+  "_spec": "datatables.net-buttons-se@^1.6.2",
+  "_where": "D:\\Simple-UI-Semantic-UI-Admin",
+  "author": {
+    "name": "SpryMedia Ltd",
+    "url": "http://datatables.net"
+  },
+  "bugs": {
+    "url": "https://datatables.net/forums"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "datatables.net-buttons": "1.6.2",
+    "datatables.net-se": "^1.10.15",
+    "jquery": ">=1.7"
+  },
+  "deprecated": false,
+  "description": "Buttons for DataTables with styling for [Semantic UI](http://semantic-ui.com/)",
+  "files": [
+    "css/**/*.css",
+    "js/**/*.js"
+  ],
+  "homepage": "https://datatables.net",
+  "keywords": [
+    "buttons",
+    "excel",
+    "pdf",
+    "csv",
+    "column visibility",
+    "print",
+    "DataTables",
+    "jQuery",
+    "table",
+    "Semantic UI"
+  ],
+  "license": "MIT",
+  "main": "js/buttons.semanticui.js",
+  "name": "datatables.net-buttons-se",
+  "style": "css/buttons.semanticui.css",
+  "version": "1.6.2"
+}
